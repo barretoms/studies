@@ -6,6 +6,7 @@
  - O LL e o IP são utilizados para caracterizar o comportamento dos solos.
  - ![Índices de Atterberg](indices_de_atterberg.png)
  - Indicam a influência dos finos argilosos no comportamento do solo.
+ - Os Índices de Atterberg são bons em caracterizar [solo residual maduro](solo_residual_maduro.md) ou [solo transportado](solo_transportado.md), contudo, para [solos lateríticos](solos_lateriticos.md) e [solos saprolíticos](solos_saproliticos.md), estes índices apresenta, resultados que não refletem a estrutura original do solo. 
 
 # Referência
 
