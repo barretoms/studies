@@ -15,7 +15,7 @@
      - [Peso Específico dos Sólidos (ou dos grãos)](peso_especifico_dos_solidos.md)
      - [Peso Específico da Água](peso_especifico_da_agua.md)
      - [Peso Especifico Natural](peso_especifico_natural.md)
-     - [Peso Específico Aparente Seco](peso_especifico_aparente_seco.md]
+     - [Peso Específico Aparente Seco](peso_especifico_aparente_seco.md)
      - [Peso Específico Aparente Saturado](peso_especifico_aparente_saturado.md)
      - [Peso Específico Submerso](peso_especifico_submerso.md)
 
@@ -26,8 +26,8 @@
 	 - Shaking test: ao se formar uma pasta (saturada) o manuseio e a pressão da mesma, se composta da fração silte, liberam água e, o mesmo não ocorre com a fração argila.
 	 - Ductilidade: Ao se manusear o solo perto do limite de plasticidade, as argilas apresentam-se mais resistentes que o silte
 	 - Velocidade de secagem: a velocidade de secagem do solo do LL ao LP na mão é relativa ao índice de plasticidade (quanto mais rápida, menor o índice de plasticidade).
-
-
+ - Utiliza-se uma série de critérios para a [Classificação do Solo](classificacao_do_solo.md)
+ 
 ## Referência
 
  - [Curso Básico de Mecânica dos Solos](curso_basico_de_mecanica_dos_solos.md)
