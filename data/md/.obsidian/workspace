@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "fab220c513998705",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23e964985b2c9ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mecanica_dos_solos/classificacao_do_solo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c4d169c330f3a6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aa87a9ea3196e1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b6227b390554f62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7eb7259b83575bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 450
+  },
+  "right": {
+    "id": "04a8345492c66eef",
+    "type": "split",
+    "children": [
+      {
+        "id": "294ba08a6243d8cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76b60958383a2150",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mecanica_dos_solos/classificacao_do_solo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f23e964985b2c9ce",
+  "lastOpenFiles": [
+    "mecanica_dos_solos/classificacao_do_solo.md",
+    "solos.md",
+    "limites_de_atterberg.md",
+    "mecanica_dos_solos/indice_de_plasticidade.md",
+    "peso_especifico_submerso.md",
+    "peso_especifico_aparente_saturado.md",
+    "peso_especifico_aparente_seco.md",
+    "peso_especifico_natural.md",
+    "peso_especifico_da_agua.md",
+    "peso_especifico_dos_solidos.md"
+  ]
+}

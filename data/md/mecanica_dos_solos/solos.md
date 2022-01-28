@@ -1,5 +1,3 @@
-#MecanicaDosSolos
-
 # Solos
 
  - Somente parte do volume total do solo é ocupado por partículas sólidas.
