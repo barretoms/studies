@@ -35,7 +35,7 @@
 
 
 ## Referencia
- - [Curso Básico de Mecânica dos Solos](curso_basico_de_mecanica_dos_solos.md)
+ - [Curso Básico de Mecânica dos Solos](old/curso_basico_de_mecanica_dos_solos.md)
 
 ## Conecta
  - !%Filho[Solos](solos.md)
