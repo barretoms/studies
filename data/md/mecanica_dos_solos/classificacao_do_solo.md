@@ -13,6 +13,8 @@
  - Existem diversos sistemas de classificação, dentre eles:
      - [Classificação Unificada](classificacao_unificada_de_solos.md)
      - [Sistema Rodoviário de Classificação](sistema_rodoviario_de_classificacao_dos_solos.md)
+     - [Classificação dos solos pela Origem](class_solos_pela_origem.md)
+     - 
 
 ## Referência
 

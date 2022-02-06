@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mecanica_dos_solos/sistema_rodoviario_de_classificacao_dos_solos.md",
+            "file": "class_solos_pela_origem.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248
+    "width": 248,
+    "collapsed": true
   },
   "right": {
     "id": "04a8345492c66eef",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mecanica_dos_solos/sistema_rodoviario_de_classificacao_dos_solos.md",
+                "file": "class_solos_pela_origem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +91,15 @@
   },
   "active": "c2b4b84ff5083be3",
   "lastOpenFiles": [
-    "mecanica_dos_solos/sistema_rodoviario_de_classificacao_dos_solos.md",
+    "class_solos_pela_origem.md",
     "mecanica_dos_solos/classificacao_do_solo.md",
+    "mecanica_dos_solos/sistema_rodoviario_de_classificacao_dos_solos.md",
     "mecanica_dos_solos/classificacao_unificada_de_solos.md",
     "mecanica_dos_solos/coeficiente_de_curvatura.md",
     "mecanica_dos_solos/areias.md",
     "mecanica_dos_solos/argilas.md",
     "mecanica_dos_solos/coeficiente_de_nao_uniformidade.md",
     "mecanica_dos_solos/curso_basico_de_mecanica_dos_solos.md",
-    "classificacao_unificada_de_solo.md",
-    "classificacao_unificada_de_solos.md"
+    "classificacao_unificada_de_solo.md"
   ]
 }
