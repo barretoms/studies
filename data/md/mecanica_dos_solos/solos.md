@@ -27,7 +27,8 @@
 	 - Ductilidade: Ao se manusear o solo perto do limite de plasticidade, as argilas apresentam-se mais resistentes que o silte
 	 - Velocidade de secagem: a velocidade de secagem do solo do LL ao LP na mão é relativa ao índice de plasticidade (quanto mais rápida, menor o índice de plasticidade).
  - Utiliza-se uma série de critérios para a [Classificação do Solo](classificacao_do_solo.md)
- 
+ * Na construção civil, são empregadas técnicas de [Compactação do Solo](compactacao_do_solo.md) para sua utilização em obras de engenharia.
+ * É também aplicável o conceito de [Tensões no Solo](tensoes_no_solo.md) entre partículas em contato e através da água
 ## Referência
 
  - [Curso Básico de Mecânica dos Solos](old/curso_basico_de_mecanica_dos_solos.md)

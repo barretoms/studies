@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c2b4b84ff5083be3",
+        "id": "ae31fe2186478105",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "class_solos_pela_origem.md",
+            "file": "mecanica_dos_solos/ensaios_alternativos_de_compactacao.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248,
+    "width": 424,
     "collapsed": true
   },
   "right": {
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class_solos_pela_origem.md",
+                "file": "mecanica_dos_solos/ensaios_alternativos_de_compactacao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +89,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c2b4b84ff5083be3",
+  "active": "ae31fe2186478105",
   "lastOpenFiles": [
-    "class_solos_pela_origem.md",
-    "mecanica_dos_solos/classificacao_do_solo.md",
-    "mecanica_dos_solos/sistema_rodoviario_de_classificacao_dos_solos.md",
-    "mecanica_dos_solos/classificacao_unificada_de_solos.md",
-    "mecanica_dos_solos/coeficiente_de_curvatura.md",
+    "mecanica_dos_solos/ensaios_alternativos_de_compactacao.md",
+    "tensoes_no_solo.md",
+    "mecanica_dos_solos/solos.md",
+    "mecanica_dos_solos/compactacao_do_solo.md",
     "mecanica_dos_solos/areias.md",
-    "mecanica_dos_solos/argilas.md",
-    "mecanica_dos_solos/coeficiente_de_nao_uniformidade.md",
-    "mecanica_dos_solos/curso_basico_de_mecanica_dos_solos.md",
-    "classificacao_unificada_de_solo.md"
+    "Untitled 1.md",
+    "mecanica_dos_solos/ensaio_de_compactacao_proctor.md.md",
+    "Untitled.md",
+    "mecanica_dos_solos/limite_de_plasticidade.md",
+    "mecanica_dos_solos/class_solos_pela_origem.md"
   ]
 }
