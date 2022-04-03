@@ -26,7 +26,11 @@
 * Visa assegurar a viabilidade técnica da obra
 * Continua os estudos do projeto conceitual
 * Desenvolvimento da solução técnica concebida na fase do projeto conceitual
+	* Custos
+	* Métodos
+	* Prazos
 * Caracterizar o meio físico
 
 ### Projeto executivo
 * Orientação para análise, cálculo e indicação de métodos de execução dos servios relacionados à Mecânica dos Solos
+* Métodos de estudo para a execução da obra
