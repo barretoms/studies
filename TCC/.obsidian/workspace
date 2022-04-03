@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "f2596cb7435d233a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b348fda5712ecc4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00_Índice.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbad5aee5eb61a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "731aedf1f212ec4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c023caae4baba180",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acf0f4f9d5f6b36f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de0c0558ed7a6930",
+    "type": "split",
+    "children": [
+      {
+        "id": "19893b7ef7262349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e6f2e2b0969c87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Índice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b348fda5712ecc4",
+  "lastOpenFiles": [
+    "00_Índice.md",
+    "01_Introdução.md",
+    "Recursos/PECS.md",
+    "04_Discussão.md",
+    "Referências/ref-1 - Hoffman, 2014.md",
+    "Referências/ref-2 - INEA, 2013.md",
+    "05_Conclusão.md",
+    "03_Resultados.md",
+    "02_Metodologia.md"
+  ]
+}

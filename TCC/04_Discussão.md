@@ -1,0 +1,1 @@
+* Dados os custos, o investimento de um programa de monitoramento pode ser melhor justificado em áreas essenciais, como encostas suscetíveis a acidentes geológico, áreas mata ciliar de rios e nascentes
