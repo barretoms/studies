@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "livros/ensaios_de_campo_e_suas_aplicacoes_a_engenharia_de_fundacoes/1_investigacao_geotecnica.md",
+            "file": "referencias/curso_basico_de_mecanica_dos_solos_ref.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424,
-    "collapsed": true
+    "width": 424
   },
   "right": {
     "id": "04a8345492c66eef",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "livros/ensaios_de_campo_e_suas_aplicacoes_a_engenharia_de_fundacoes/1_investigacao_geotecnica.md",
+                "file": "referencias/curso_basico_de_mecanica_dos_solos_ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,12 +90,12 @@
   },
   "active": "f197f59515d6045a",
   "lastOpenFiles": [
+    "referencias/curso_basico_de_mecanica_dos_solos_ref.md",
+    "referencias/ensaios_de_campo_fundacoes_ref.md",
     "livros/ensaios_de_campo_e_suas_aplicacoes_a_engenharia_de_fundacoes/1_investigacao_geotecnica.md",
     "livros/ensaios_de_campo_e_suas_aplicacoes_a_engenharia_de_fundacoes/0_indice.md",
     "livros/curso_basico_de_mecanica_dos_solos/0_indice.md",
     "dicionario/tags.md",
-    "referencias/ensaios_de_campo_fundacoes_ref.md",
-    "referencias/curso_basico_de_mecanica_dos_solos_ref.md",
     "agenda/ANM2022.md",
     "livros/curso_basico_de_mecanica_dos_solos/tensoes_no_solo.md",
     "livros/curso_basico_de_mecanica_dos_solos/ensaios_alternativos_de_compactacao.md",
