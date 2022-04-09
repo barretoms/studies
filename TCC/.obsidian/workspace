@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00_Índice.md",
-            "mode": "source"
+            "file": "Referências/ref-1 - Hoffman, 2014.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,81 +19,66 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dbad5aee5eb61a3c",
-    "type": "split",
+    "id": "8541585a34b5fe57",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "731aedf1f212ec4a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c023caae4baba180",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "acf0f4f9d5f6b36f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "804483f8923a8316",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1b5bcc2271e64445",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "de0c0558ed7a6930",
-    "type": "split",
+    "id": "1af0dd0e48776415",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "19893b7ef7262349",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5e6f2e2b0969c87",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "00_Índice.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "7a3325ce17bb1cc6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Referências/ref-1 - Hoffman, 2014.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "4b348fda5712ecc4",
   "lastOpenFiles": [
+    "Referências/ref-1 - Hoffman, 2014.md",
     "00_Índice.md",
     "01_Introdução.md",
     "Recursos/PECS.md",
     "04_Discussão.md",
-    "Referências/ref-1 - Hoffman, 2014.md",
     "Referências/ref-2 - INEA, 2013.md",
     "05_Conclusão.md",
     "03_Resultados.md",
